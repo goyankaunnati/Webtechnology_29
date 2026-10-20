@@ -1,0 +1,38 @@
+
+body {
+    font-family: Arial, sans-serif;
+    margin: 20px 35px;
+    font-size: 20px;
+}
+
+.container {
+    border: 2px solid black;
+    padding: 0;
+}
+
+h1 {
+    font-size: 40px;
+    margin: 25px 0;
+}
+
+.product {
+    padding: 14px;
+    border-top: 1px solid #ccc;
+}
+
+h2 {
+    font-size: 30px;
+    margin-top: 25px;
+}
+
+#cart {
+    padding-left: 50px;
+    line-height: 1.4;
+}
+
+#total {
+    margin-bottom: 25px;
+}
+
+
+}
